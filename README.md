@@ -68,10 +68,10 @@
 ### 🛠️ Skills
 
 - **Languages**: JavaScript, Python, SQL  
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind  
-- **Backend**: Node.js, Express.js  
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind 
+- **Backend**: Node.js  
 - **Database**: MySQL, MongoDB  
-- **Tools**: Git, GitHub, VS Code, Postman
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
